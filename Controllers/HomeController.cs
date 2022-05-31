@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Meetup.Models;
+using Meetup.Services;
 
 namespace Meetup.Controllers;
 
@@ -8,20 +9,25 @@ namespace Meetup.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly EventService _eventService;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, EventService eventService)
     {
         _logger = logger;
+        _eventService = eventService;
     }
     [HttpGet]
     public async Task<IActionResult> Get()
     {
-        return Ok();
+        return Ok(await _eventService.GetEvents());
     }
     [HttpGet("{id}")]
     public async Task<IActionResult> Get(Guid id)
     {
-        return Ok();
+        var eventt = await _eventService.GetEvent(id);
+        if (eventt is not null)
+        return Ok(eventt);
+        return BadRequest();
     }
     [HttpPost]
     public async Task<IActionResult> Post()

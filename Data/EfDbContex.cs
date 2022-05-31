@@ -8,6 +8,7 @@ namespace Meetup.Data
         public DbSet<Event> Events { get; set; }
         public DbSet<Organizer> Organizers { get; set; }
         public DbSet<Speaker> Speakers { get; set; }
+        public DbSet<Place> Places { get; set; }
         public EfDbContex(DbContextOptions options) : base(options)
         {
         }

@@ -1,10 +1,18 @@
+using Meetup;
 using Meetup.Data;
+using Meetup.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllers();
+builder.Services.AddAutoMapper(typeof(AppMappingProfile));
+builder.Services.AddTransient<EventService>();
+builder.Services.AddTransient<OrganizerService>();
+builder.Services.AddTransient<SpeakerService>();
+builder.Services.AddTransient<PlaceService>();
+builder.Services.AddSwaggerGen();
 
 ConfigurationManager configuration = builder.Configuration;
 builder.Services.AddDbContext<EfDbContex>(option => option.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
@@ -20,9 +28,13 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+app.UseSwagger();
+app.UseSwaggerUI(x => { x.DocumentTitle = "Swagger"; x.SwaggerEndpoint("/swagger/v1/swagger.json", "SwaggerMeetup"); x.RoutePrefix = string.Empty; });
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.UseCors(x => { x.AllowAnyHeader(); x.AllowAnyMethod(); x.AllowAnyOrigin(); });
 
 app.UseRouting();
 
