@@ -1,0 +1,314 @@
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\testhost.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Meetup.deps.json
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Meetup.runtimeconfig.json
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\appsettings.json
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Meetup.staticwebassets.runtime.json
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Meetup.exe
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\testhost.exe
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\nunit.engine.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.deps.json
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.runtimeconfig.json
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.pdb
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Castle.Core.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Moq.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\nunit.framework.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Meetup.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\Meetup.pdb
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.csproj.AssemblyReference.cache
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.AssemblyInfoInputs.cache
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.AssemblyInfo.cs
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.csproj.CoreCompileInputs.cache
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.csproj.CopyComplete
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.dll
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\refint\TestMeetAPI.dll
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.pdb
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.genruntimeconfig.cache
+D:\Proj\test test\TestMeetAPI\obj\Debug\net6.0\ref\TestMeetAPI.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\FluentAssertions.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Proj\test test\TestMeetAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\refint\TestMeetAPI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.pdb
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\testhost.exe
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\testhost.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\nunit.engine.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Meetup.deps.json
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Meetup.runtimeconfig.json
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\appsettings.json
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Meetup.staticwebassets.runtime.json
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Meetup.exe
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.deps.json
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.runtimeconfig.json
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\TestMeetAPI.pdb
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Castle.Core.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\FluentAssertions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Moq.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\nunit.framework.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Meetup.dll
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\bin\Debug\net6.0\Meetup.pdb
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.csproj.AssemblyReference.cache
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.AssemblyInfoInputs.cache
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.AssemblyInfo.cs
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.csproj.CoreCompileInputs.cache
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.csproj.CopyComplete
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\TestMeetAPI.genruntimeconfig.cache
+D:\Proj\1\123\MeetupAPI\TestMeetAPI\obj\Debug\net6.0\ref\TestMeetAPI.dll

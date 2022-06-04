@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MeetupAPI-master\Meetup.csproj" />
+    <ProjectReference Include="..\src\Meetup.csproj" />
   </ItemGroup>
 
 </Project>
