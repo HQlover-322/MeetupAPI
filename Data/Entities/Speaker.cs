@@ -1,8 +1,9 @@
-﻿namespace Meetup.Data.Entities
+﻿using Meetup.Data.Entities.Base;
+
+namespace Meetup.Data.Entities
 {
-    public class Speaker
+    public class Speaker:BaseEntity
     {
-        public Guid SpeakerId { get; set; }
         public string Name { get; set; }
     }
 }

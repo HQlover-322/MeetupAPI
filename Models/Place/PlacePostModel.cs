@@ -1,8 +1,6 @@
-﻿using Meetup.Data.Entities.Base;
-
-namespace Meetup.Data.Entities
+﻿namespace Meetup.Models.Place
 {
-    public class Place:BaseEntity
+    public class PlacePostModel
     {
         public string PlaceName { get; set; }
         public string PlaceDescription { get; set; }

@@ -1,8 +1,6 @@
-﻿using Meetup.Data.Entities.Base;
-
-namespace Meetup.Data.Entities
+﻿namespace Meetup.Models.Organizer
 {
-    public class Organizer:BaseEntity
+    public class OrganizerPostModel
     {
         public string Name { get; set; }
         public string FullName { get; set; }
