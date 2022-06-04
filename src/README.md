@@ -1,5 +1,6 @@
 
 RestAPI 
+
 2 Слоя /n-layer/ архитектура
 
 Информация о событии
@@ -51,7 +52,7 @@ NUnit
 
 3.dotnet run
 
-4.В консоле " Now listening on: https://localhost:7035" адрес хоста 
+4.В консоле " Now listening on: https://localhost:7035" это адрес хоста 
 
 
 Или запустить проект вручную из Visual Studio 
