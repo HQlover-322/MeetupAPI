@@ -13,12 +13,8 @@ namespace Meetup.Services
 {
     public class UserService : IUserService
     {
-        // users hardcoded for simplicity, store in a db with hashed passwords in production applications
-
-
         private readonly AppSettings _appSettings;
         private readonly SignInManager<User> _signInManager;
-
         public UserService(IOptions<AppSettings> appSettings, SignInManager<User> signInManager)
         {
             _appSettings = appSettings.Value;
@@ -35,38 +31,25 @@ namespace Meetup.Services
                 return new AuthenticateResponse(user, token);
             }
             throw new Exception();
-
         }
         public async Task<AuthenticateResponse> Authenticate(AuthenticateRequest model)
         {
-
             var user = _signInManager.UserManager.Users.FirstOrDefault(x => x.UserName == model.Username);
-            // return null if user not found
             if (user == null) return null;
             var result = await _signInManager.PasswordSignInAsync(user.UserName, model.Password, false, false);
             if (!result.Succeeded)
                 return null;
-            // authentication successful so generate jwt token
             var token = generateJwtToken(user);
 
             return new AuthenticateResponse(user, token);
         }
-
-        //public IEnumerable<User> GetAll()
-        //{
-        //    return _users;
-        //}
-
         public User GetById(string id)
         {
             return _signInManager.UserManager.Users.FirstOrDefault(x => x.Id == id);
         }
 
-        // helper methods
-
         private string generateJwtToken(User user)
         {
-            // generate token that is valid for 7 days
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = Encoding.ASCII.GetBytes(_appSettings.Secret);
             var tokenDescriptor = new SecurityTokenDescriptor

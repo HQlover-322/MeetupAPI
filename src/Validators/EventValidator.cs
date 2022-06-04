@@ -16,7 +16,7 @@ namespace Meetup.Validators
                .WithMessage("Wrong date or time");
         }
     }
-    public class EventPutValidator : AbstractValidator<EventPutModel>
+    public sealed class EventPutValidator : AbstractValidator<EventPutModel>
     {
         public EventPutValidator()
         {
